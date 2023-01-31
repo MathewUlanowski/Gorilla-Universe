@@ -1,6 +1,6 @@
 # Gorilla Universe
 
-out of a mild laught that a quote from Joe Armstrong made 
+this project is a homage to a quote from Joe Armstrong that made me laugh a bit. 
 
 "The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle." -- Joe Armstrong -- https://en.wikipedia.org/wiki/Object-oriented_programming#Criticism
 
